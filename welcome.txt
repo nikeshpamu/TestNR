@@ -5,3 +5,5 @@ Welcome to the Git Training- Pamu
 Hello Pamu,
 
 Thank you for inviting me- Raji
+
+You are welcome 
